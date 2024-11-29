@@ -4,6 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/Ghenntoggy1/epp-hack-front
-[submodule "Erasmus_Hack"]
-	path = Erasmus_Hack
-	url = https://github.com/Ghenntoggy1/Erasmus_Hack
+[submodule "epp-hack-front"]
+	path = epp-hack-front
+	url = https://github.com/Ghenntoggy1/epp-hack-front
