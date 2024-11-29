@@ -1,6 +1,6 @@
 [submodule "server"]
-	path = Erasmus_Hack
+	path = server
 	url = https://github.com/Ghenntoggy1/Erasmus_Hack
 [submodule "client"]
-	path = epp-hack-front
+	path = client
 	url = https://github.com/Ghenntoggy1/epp-hack-front
